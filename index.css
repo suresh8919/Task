@@ -1,0 +1,83 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+button{
+  color: rgb(0, 0, 0);
+  background-color: rgb(168, 252, 255);
+  border-radius: 15px;
+
+}
+button:hover {
+background-color: rgb(80, 255, 220);
+}
+.innerback{
+  align-items: center;
+  padding: 300px;
+  
+}
+.c_div {
+  width: 25%;
+  height: 80vh;
+ 
+  background-color:
+  #f4f4f4;
+  
+
+  border-radius:
+  15px;}
+  .main_div{
+    align-items: center;
+  }
+  .main_div {
+    width: 100%;
+    
+  
+    background: #37584b;
+    display: flex;
+    
+    flex-direction: row;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+ input{
+  text-align: center;
+  border: none;
+  background-color: antiquewhite;
+  outline: none;
+  top:10px;
+  height:30px;
+  font-weight: 500;
+  width:60%;
+  border-bottom: 2px solid ;
+
+ }
+ button {
+  min-height: 40px;
+  
+  width: 40px;
+  border-radius: 50%;
+  border-color: transparent;
+  background-color: #4e9b6b;
+  color:
+  #fff;
+  font-size: 15px;
+  border: none;
+  outline: none;
+  margin-left: 10px;
+  }
+  .List2{
+   background-color: #4e9b6b;
+  }
